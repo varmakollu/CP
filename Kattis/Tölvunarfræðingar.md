@@ -3,7 +3,7 @@
 ## **Problem Statement**
 Computer scientists count differently from normal people. Instead of starting from `1`, they start from `0`. Therefore, the `n`-th number in computer science counting is `n - 1`.
 
-## Platform : [Kartis](https://open.kattis.com/problems/tolvunarfraedingartelja)
+## Platform : [Kattis](https://open.kattis.com/problems/tolvunarfraedingartelja)
 
 ## **Input**
 - A single integer `n` (1 ≤ n ≤ 10⁹).
